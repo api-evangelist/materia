@@ -1,0 +1,42 @@
+{
+    "name": "Materia",
+    "description": "A modern development environment to build advanced mobile and web applications",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/22948-materia.jpg",
+    "tags": [
+        "api service provider",
+        "design",
+        "desktop",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/materia\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Materia",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/22948-materia.jpg",
+            "humanURL": "https:\/\/getmateria.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/materia-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/MateriaHQ"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/getmateria.com\/"
+        }
+    ]
+}
